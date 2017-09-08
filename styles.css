@@ -1,5 +1,6 @@
 main{
   max-width: 900px;
+  margin-bottom:100px;
 }
 
 header#portfolio-header{
@@ -26,6 +27,10 @@ header p#slogan{
 
 .project img{
   width=100%;
+}
+
+.bottom-floor{
+  margin-bottom: 100px;
 }
 
 footer#connect{
