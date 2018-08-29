@@ -21,6 +21,10 @@ header p#slogan{
   font-size: 1.6rem;
 }
 
+.container{
+  color: hsla(350, 95%, 65%, .60);
+}
+
 .project-description{
   padding-left:0;
 }
